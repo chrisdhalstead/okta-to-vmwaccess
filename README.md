@@ -1,8 +1,9 @@
 # okta-to-vmwaccess
 Migrate Okta apps to VMware Access
 
-Chris Halstead
-Twitter: @chrisdhalstead
+Chris Halstead - Staff Architect, VMware  
+Email: chalstead@vmware.com  
+Twitter: @chrisdhalstead  
 
 8/28/20
 
